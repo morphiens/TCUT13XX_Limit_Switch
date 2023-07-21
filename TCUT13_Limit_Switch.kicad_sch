@@ -1762,7 +1762,7 @@
   )
 
   (symbol (lib_id "Molex_1.25_5055680371:5055680471") (at 207.01 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 1b923f91-0769-43ee-95eb-d2c9402de36c)
     (property "Reference" "J1" (at 215.9 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2182,7 +2182,7 @@
   )
 
   (symbol (lib_id "Molex_1.25_5055670471:5055670471") (at 207.01 125.73 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 66ad61f1-996c-4a12-b032-3427449605f7)
     (property "Reference" "J2" (at 215.9 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left))
